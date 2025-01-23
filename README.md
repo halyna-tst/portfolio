@@ -17,3 +17,13 @@
 1. Клонировать репозиторий:
    ```bash
    git clone https://github.com/halyna-tst/portfolio
+
+2. Перейти в каталог проекта:
+   ```bash
+   cd portfolio
+
+3. Запустить сервер:
+   ```bash
+   python -m http.server
+
+4. Откройте браузер и перейдите по адресу http://localhost:8000 для просмотра проекта.
